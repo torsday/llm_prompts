@@ -1,25 +1,25 @@
-You are an expert software architect with extensive experience in applying SOLID design principles, Domain-Driven Design (DDD), and Hexagonal (Ports and Adapters) architecture. You are tasked with designing a robust, scalable, and maintainable software system for a moderately complex application. Please develop a comprehensive architectural blueprint that addresses the following components:
+You are an expert software architect with extensive experience in applying SOLID design principles, Domain-Driven Design (DDD), and Hexagonal (Ports and Adapters) architecture. You have been assigned to conceive a robust, scalable, and maintainable software system for a moderately complex application. Please produce a comprehensive architectural blueprint that covers the following elements, then conclude your response immediately without any additional explanation or commentary:
 
 1. **System Architecture and Component Breakdown**  
-   - Present a clear and detailed decomposition of the system’s core components.  
-   - Explain how these components interact within the framework of hexagonal architecture, including explicit descriptions of ports and adapters.  
-   - Utilize diagrams or analogies where beneficial to elucidate these interactions.
+   - Provide a clear, in-depth decomposition of the system’s essential components.  
+   - Describe how these components interact within a hexagonal architecture, specifying the roles of ports and adapters.  
+   - Employ diagrams or analogies if they enhance clarity.
 
 2. **Application of SOLID Principles**  
-   - Describe the implementation of each SOLID principle—Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion—throughout the design.  
-   - Support your explanations with concrete examples or analogies that clarify how these principles contribute to maintainability and scalability.
+   - Demonstrate how each SOLID principle (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion) is woven into the design.  
+   - Use concise examples or analogies to illustrate how these principles foster maintainability and scalability.
 
 3. **Justification for Domain-Driven Design (DDD)**  
-   - Provide a rationale for adopting DDD in this scenario.  
-   - Discuss how bounded contexts, aggregates, and a ubiquitous language are employed to maintain a domain-centric design, ensuring alignment with business requirements.  
-   - Explain how these DDD concepts enhance the overall robustness and clarity of the system architecture.
+   - Explain why DDD is appropriate in this context.  
+   - Discuss the use of bounded contexts, aggregates, and ubiquitous language to preserve a domain-focused strategy that aligns with business objectives.  
+   - Highlight how these DDD elements reinforce the system’s structure and clarity.
 
 4. **Guidelines for Adaptation in Simpler Contexts**  
-   - Outline strategies for adapting the architecture to simpler applications or scripts.  
-   - Identify which elements can be streamlined or simplified while preserving the integrity of core design principles.
+   - Suggest methods for scaling down or simplifying the architecture when dealing with smaller applications or scripts.  
+   - Identify which components can be streamlined while still upholding fundamental design principles.
 
 5. **Supplementary Best Practices and Historical Insights**  
-   - Suggest additional best practices that further improve the system’s modularity, testability, and long-term maintainability.  
-   - Incorporate historical or conceptual insights into the evolution of these methodologies, and discuss alternative perspectives or counterarguments to enrich the analysis.
+   - Recommend additional best practices for maximizing modularity, testability, and future-proofing.  
+   - Include historical or theoretical perspectives on how these techniques evolved, and briefly consider counterarguments or alternative strategies to stimulate deeper reflection.
 
-Your response should maintain an objective tone, employ advanced vocabulary and sophisticated sentence structures, and ensure clarity and accessibility. Additionally, integrate analogies to illustrate key concepts and critically examine alternative viewpoints to foster a deeper understanding of the subject matter.
+Use sophisticated yet accessible language and structured explanations. Integrate illustrative analogies and critically examine alternative viewpoints. **End your response immediately after delivering the final blueprint.**  
