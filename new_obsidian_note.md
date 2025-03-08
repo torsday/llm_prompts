@@ -26,8 +26,6 @@ date: "2025-03-07"
 tags:
 - tag1
 - tag2
-category: "Optional Category"
-references: ["Optional Reference 1"]
 ---
 
 ## Summary
@@ -42,6 +40,9 @@ A brief synopsis of the core topics or arguments.
 
 ## References
 - Source links or related documents
+
+## See Also
+- [[link to other internal pages that should/might exist]]
 ```
 
 ---
