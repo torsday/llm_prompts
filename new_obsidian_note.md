@@ -31,12 +31,7 @@ tags:
 ## Summary
 A brief synopsis of the core topics or arguments.
 
-## Main Content
-- Key point 1
-- Key point 2
-
-## Action Items
-- Next steps or tasks
+<MAIN CONTENT>
 
 ## References
 - Source links or related documents
