@@ -15,7 +15,7 @@
 3. **Formatting and Style**
    - Deliver the final output **inside a fenced Markdown code block** (triple backticks).  
    - Ensure consistency in indentation, bullet styling, and spacing.  
-   - Emphasize crucial terms or concepts using **bold** or *italics* where beneficial.  
+   - Emphasize crucial terms or concepts using **bold**, *italics*, and ==highlights== where beneficial.  
    - Opt for concise, accessible language, preserving the substance of the original text without superfluous verbosity.
 
 4. **Illustrative Example** (reference/inspiration only):
